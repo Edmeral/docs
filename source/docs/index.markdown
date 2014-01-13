@@ -7,7 +7,7 @@ comments: false
 footer: false
 ---
 
-Octopress is a framework designed for Jekyll, the static blogging engine powering Github Pages. Have a look through
+Octopress is a framework designed for Jekyll, the static blogging engine powering GitHub Pages. Have a look through
 the documentation and if you have trouble, [I'll be happy to help](/help). If you find errors in the documentation
 [post an issue](https://github.com/octopress/docs/issues) or fork and send a pull request to the [master branch](https://github.com/octopress/docs/tree/master).
 
